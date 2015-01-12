@@ -9,3 +9,6 @@ A good website for the **documentation** [Corepython](http://corepython.com)
 
 **Jython is a very good transmiter, with which, Java and Python can work together. Refer to [Jython](http://jython.org)**
 
+In a frame, the position is really weird. e.g. List=[1,2,3,4]
+When I command, List[0], the output is [1]; when List[:4], output is [1,2,3,4]; when List[0:2], output is [1,2];
+when List[1], output is [2] ?????????
