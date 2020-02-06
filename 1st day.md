@@ -12,3 +12,7 @@ A good website for the **documentation** [Corepython](http://corepython.com)
 In a frame, the position is really weird. e.g. List=[1,2,3,4]
 When I command, List[0], the output is [1]; when List[:4], output is [1,2,3,4]; when List[0:2], output is [1,2];
 when List[1], output is [2] ?????????
+
+
+It looks a bit stupid now!
+I recommand to delete the past repos
